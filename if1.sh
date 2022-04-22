@@ -6,3 +6,4 @@ echo "a is big"
 else
 echo "b is bg"
 fi
+# if condition using
