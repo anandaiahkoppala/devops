@@ -7,3 +7,4 @@ else
 echo "b is bg"
 fi
 # if condition using
+# if condiion
